@@ -1,0 +1,10 @@
+C:\Users\Ben\Desktop\SpaceInvadersNeww\SpaceInvadersNeww\SpaceInvaders\bin\Debug\Space Invaders.exe.config
+C:\Users\Ben\Desktop\SpaceInvadersNeww\SpaceInvadersNeww\SpaceInvaders\bin\Debug\Space Invaders.exe
+C:\Users\Ben\Desktop\SpaceInvadersNeww\SpaceInvadersNeww\SpaceInvaders\bin\Debug\Space Invaders.pdb
+C:\Users\Ben\Desktop\SpaceInvadersNeww\SpaceInvadersNeww\SpaceInvaders\obj\Debug\SpaceInvaders.csproj.AssemblyReference.cache
+C:\Users\Ben\Desktop\SpaceInvadersNeww\SpaceInvadersNeww\SpaceInvaders\obj\Debug\SpaceInvaders.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ben\Desktop\SpaceInvadersNeww\SpaceInvadersNeww\SpaceInvaders\obj\Debug\SpaceInvaders.Properties.Resources.resources
+C:\Users\Ben\Desktop\SpaceInvadersNeww\SpaceInvadersNeww\SpaceInvaders\obj\Debug\SpaceInvaders.csproj.GenerateResource.cache
+C:\Users\Ben\Desktop\SpaceInvadersNeww\SpaceInvadersNeww\SpaceInvaders\obj\Debug\SpaceInvaders.csproj.CoreCompileInputs.cache
+C:\Users\Ben\Desktop\SpaceInvadersNeww\SpaceInvadersNeww\SpaceInvaders\obj\Debug\Space Invaders.exe
+C:\Users\Ben\Desktop\SpaceInvadersNeww\SpaceInvadersNeww\SpaceInvaders\obj\Debug\Space Invaders.pdb

@@ -1,4 +1,4 @@
-# Space-Invaders
+# Space Invaders
 
 My final project for my Fall 2019 Programming I class.
 
